@@ -43,7 +43,7 @@
     "express": "^4.15.2",
     "rxjs": "~6.6.0",
     "systemjs": "0.19.39",
-    "tslib": "^2.0.0",
+    "tslib": "^2.3.1",
     "zone.js": "~0.10.3"
   },
   "devDependencies": {
