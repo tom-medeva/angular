@@ -41,7 +41,7 @@
   "// 1": "dependencies are used locally and by bazel",
   "dependencies": {
     "@angular-devkit/architect": "0.1100.0-rc.1",
-    "@angular-devkit/build-angular": "0.1100.0-rc.1",
+    "@angular-devkit/build-angular": "0.1100.0",
     "@angular-devkit/build-optimizer": "0.1100.0-rc.1",
     "@angular-devkit/core": "11.0.0-rc.1",
     "@angular-devkit/schematics": "11.0.0-rc.1",
@@ -142,7 +142,7 @@
     "rollup-plugin-sourcemaps": "^0.4.2",
     "rxjs": "^6.5.3",
     "selenium-webdriver": "3.5.0",
-    "shelljs": "^0.8.4",
+    "shelljs": "^0.8.5",
     "source-map": "^0.6.1",
     "source-map-support": "0.5.9",
     "sourcemap-codec": "^1.4.8",
